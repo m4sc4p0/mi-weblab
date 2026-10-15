@@ -1,4 +1,8 @@
-# WebLab — Tu primera web, paso a paso
+# WebLab — Mi Laboratorio de Desarrollo Web :D
+
+## Objetivo: - APRENDER A DOMINAR GITHUB
+
+https://github.com/m4sc4p0/mi-weblab
 
 **v0.1 · 1.º DAM · Lenguajes de Marcas y Sistemas de Gestión de Información (LMSGI)**
 
@@ -17,6 +21,9 @@ No necesita frameworks, paquetes, compilación, cuenta de usuario ni conexión a
 - Seleccionar elementos del DOM y responder a eventos con JavaScript.
 - Distinguir Git de GitHub y trabajar con commits, ramas, merges y pull requests.
 - Documentar un proyecto usando Markdown y un README.
+
+
+
 
 Es material introductorio, pensado para acompañar la explicación y las prácticas del docente. No pretende cubrir todo el currículo ni sustituir una referencia técnica completa.
 
