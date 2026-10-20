@@ -6,6 +6,13 @@ https://github.com/m4sc4p0/mi-weblab
 
 **v0.1 · 1.º DAM · Lenguajes de Marcas y Sistemas de Gestión de Información (LMSGI)**
 
+
+
+
+**Trabajo realizado**
+
+https://github.com/m4sc4p0/mi-weblab
+
 WebLab es un minicurso multipágina sobre cómo crear una web con **HTML, CSS y JavaScript vainilla**. El propio sitio sirve como ejemplo que el alumnado puede leer, modificar y versionar con Git. Esta primera versión es deliberadamente pequeña: seis páginas, una hoja de estilos compartida, un script común y recursos locales.
 
 No necesita frameworks, paquetes, compilación, cuenta de usuario ni conexión a Internet para leer las lecciones. Los enlaces a documentación externa sí necesitan conexión. No incluye servidor, envío de formularios ni almacenamiento de datos.
